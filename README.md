@@ -1,4 +1,3 @@
-readme: |
   #  Weather Data Analysis & Visualization System (NumPy + Pandas Based)
 
   An exploratory data analysis project that examines real-world climate data to identify temperature trends, rainfall patterns, and seasonal variations using efficient numerical computation and visualization techniques.
@@ -193,3 +192,4 @@ readme: |
 
   Zaheen M Vora  
   Computer Engineering Student | Aspiring Data Science and ML Engineer
+
